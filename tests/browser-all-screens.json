@@ -1,0 +1,110 @@
+{
+  "screens": [
+    {
+      "mission": 0,
+      "game": 0,
+      "title": "L’équipement de Jeanne",
+      "overflow": true
+    },
+    {
+      "mission": 0,
+      "game": 1,
+      "title": "L’histoire en quatre images",
+      "overflow": true
+    },
+    {
+      "mission": 1,
+      "game": 0,
+      "title": "Qui accueille Jeanne ?",
+      "overflow": true
+    },
+    {
+      "mission": 1,
+      "game": 1,
+      "title": "Les trois moments de la maison",
+      "overflow": true
+    },
+    {
+      "mission": 2,
+      "game": 0,
+      "title": "Le géant sans jambes",
+      "overflow": true
+    },
+    {
+      "mission": 2,
+      "game": 1,
+      "title": "Le convoi pressé",
+      "overflow": true
+    },
+    {
+      "mission": 3,
+      "game": 0,
+      "title": "Comment reconnaître Jeanne ?",
+      "overflow": true
+    },
+    {
+      "mission": 3,
+      "game": 1,
+      "title": "Le vitrail cassé",
+      "overflow": true
+    },
+    {
+      "mission": 4,
+      "game": 0,
+      "title": "Le piège du temps",
+      "overflow": true
+    },
+    {
+      "mission": 4,
+      "game": 1,
+      "title": "Histoire ou souvenir ?",
+      "overflow": true
+    },
+    {
+      "mission": 5,
+      "game": 0,
+      "title": "La forme au-dessus du passage",
+      "overflow": true
+    },
+    {
+      "mission": 5,
+      "game": 1,
+      "title": "Le rythme des galeries",
+      "overflow": true
+    },
+    {
+      "mission": 6,
+      "game": 0,
+      "title": "Bingo des monuments",
+      "overflow": true
+    },
+    {
+      "mission": 6,
+      "game": 1,
+      "title": "Qui suis-je ?",
+      "overflow": true
+    },
+    {
+      "mission": 7,
+      "game": 0,
+      "title": "Le peintre pouvait-il voir Jeanne ?",
+      "overflow": true
+    },
+    {
+      "mission": 7,
+      "game": 1,
+      "title": "Ce que le portrait raconte",
+      "overflow": true
+    }
+  ],
+  "transitions": [
+    "Maison de Jeanne d’Arc",
+    "Bords de Loire — pont George-V",
+    "Cathédrale Sainte-Croix",
+    "Hôtel Groslot",
+    "Campo Santo",
+    "Petit train touristique",
+    "Hôtel Cabu — musée d’Histoire et d’Archéologie"
+  ],
+  "final": "La dernière énigme"
+}

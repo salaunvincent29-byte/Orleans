@@ -1,0 +1,43 @@
+OK   Fichier index.html
+OK   Fichier styles.css
+OK   Fichier app.js
+OK   Fichier sw.js
+OK   Fichier manifest.webmanifest
+OK   Fichier README.md
+OK   Fichier 404.html
+OK   Asset hero.svg
+OK   Asset martroi.svg
+OK   Asset maison.svg
+OK   Asset loire.svg
+OK   Asset cathedrale.svg
+OK   Asset groslot.svg
+OK   Asset campo.svg
+OK   Asset train.svg
+OK   Asset cabu.svg
+OK   Asset icon-192.png
+OK   Asset icon-512.png
+OK   Manifest start_url relatif
+OK   Manifest standalone
+OK   Version 4.0.0
+OK   8 missions
+OK   7 transitions
+OK   Lieu Place du Martroi
+OK   Lieu Maison de Jeanne d’Arc
+OK   Lieu Bords de Loire
+OK   Lieu Cathédrale Sainte-Croix
+OK   Lieu Hôtel Groslot
+OK   Lieu Campo Santo
+OK   Lieu Petit train touristique
+OK   Lieu Hôtel Cabu
+OK   Deux jeux par lieu
+OK   Mode express
+OK   Sauvegarde locale
+OK   Service worker enregistré
+OK   Adresse Maison
+OK   Adresse Cathédrale
+OK   Adresse Hôtel Groslot
+OK   Finale 29 avril 1429
+OK   Cache ./index.html
+OK   Cache ./styles.css
+OK   Cache ./app.js
+OK   Cache ./manifest.webmanifest

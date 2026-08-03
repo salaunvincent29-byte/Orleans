@@ -1,0 +1,11 @@
+{
+  "title": "La Bannière disparue — V4",
+  "home": "La Bannière disparue",
+  "map_steps": 8,
+  "mission_title": "Le cheval de bronze",
+  "game_count_text": "JEU 1 SUR 2",
+  "overflow": true,
+  "reward": "L’épée du courage",
+  "transition": "Maison de Jeanne d’Arc",
+  "address_present": true
+}
