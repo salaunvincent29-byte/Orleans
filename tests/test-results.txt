@@ -1,0 +1,100 @@
+PASS | Fichier index.html
+PASS | Fichier styles.css
+PASS | Fichier app.js
+PASS | Fichier sw.js
+PASS | Fichier manifest.webmanifest
+PASS | Fichier 404.html
+PASS | Fichier README.md
+PASS | Asset icon-192.png
+PASS | Asset icon-512.png
+PASS | Asset hero.svg
+PASS | Asset brouilleur.svg
+PASS | Asset martroi.svg
+PASS | Asset maison.svg
+PASS | Asset loire.svg
+PASS | Asset cathedrale.svg
+PASS | Asset groslot.svg
+PASS | Asset campo.svg
+PASS | Asset train.svg
+PASS | Asset cabu.svg
+PASS | Langue française
+PASS | Viewport mobile
+PASS | Lien manifeste
+PASS | Zone principale accessible
+PASS | Navigation étiquetée
+PASS | Lien d’évitement
+PASS | Contrôles >= 44px
+PASS | Réduction des animations
+PASS | Contraste renforcé
+PASS | Impression du diplôme
+PASS | Nom PWA
+PASS | Start URL relatif
+PASS | Scope relatif
+PASS | Mode standalone
+PASS | Langue manifeste
+PASS | Deux icônes
+PASS | Icône 192x192 | (192, 192)
+PASS | Icône 512x512 | (512, 512)
+PASS | SVG valide hero.svg
+PASS | SVG valide brouilleur.svg
+PASS | SVG valide martroi.svg
+PASS | SVG valide maison.svg
+PASS | SVG valide loire.svg
+PASS | SVG valide cathedrale.svg
+PASS | SVG valide groslot.svg
+PASS | SVG valide campo.svg
+PASS | SVG valide train.svg
+PASS | SVG valide cabu.svg
+PASS | Syntaxe app.js
+PASS | Syntaxe sw.js
+PASS | Version V3.1
+PASS | Huit missions
+PASS | 16 épreuves actives maximum
+PASS | Quatre manches finales
+PASS | Moteur single
+PASS | Moteur singleVisual
+PASS | Moteur multi
+PASS | Moteur fieldSelect
+PASS | Moteur order
+PASS | Moteur sort
+PASS | Moteur match
+PASS | Moteur map
+PASS | Moteur rotatePuzzle
+PASS | Moteur memorySequence
+PASS | Moteur collect
+PASS | Sauvegarde locale
+PASS | Aucune géolocalisation
+PASS | Service worker enregistré
+PASS | Mode fatigue
+PASS | Mode adulte
+PASS | Synthèse vocale
+PASS | Cache présent ./ | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/index.html
+PASS | Cache présent index.html | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/index.html
+PASS | Cache présent 404.html | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/404.html
+PASS | Cache présent styles.css | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/styles.css
+PASS | Cache présent app.js | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/app.js
+PASS | Cache présent manifest.webmanifest | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/manifest.webmanifest
+PASS | Cache présent assets/icon-192.png | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/icon-192.png
+PASS | Cache présent assets/icon-512.png | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/icon-512.png
+PASS | Cache présent assets/hero.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/hero.svg
+PASS | Cache présent assets/brouilleur.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/brouilleur.svg
+PASS | Cache présent assets/martroi.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/martroi.svg
+PASS | Cache présent assets/maison.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/maison.svg
+PASS | Cache présent assets/loire.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/loire.svg
+PASS | Cache présent assets/cathedrale.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/cathedrale.svg
+PASS | Cache présent assets/groslot.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/groslot.svg
+PASS | Cache présent assets/campo.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/campo.svg
+PASS | Cache présent assets/train.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/train.svg
+PASS | Cache présent assets/cabu.svg | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/assets/cabu.svg
+PASS | Cache présent index.html | /mnt/data/chronique-jeanne-v31/chronique-jeanne-v3.1/index.html
+PASS | Cache versionné
+PASS | Fallback navigation
+PASS | Aucune dépendance applicative externe | app.js
+PASS | Lien itinéraire optionnel
+PASS | Contraste #231b17/#fffdf7 | 16.64:1
+PASS | Contraste #17365d/#fffdf7 | 11.99:1
+PASS | Contraste #ffffff/#17365d | 12.19:1
+PASS | Contraste #8a3030/#fffdf7 | 8.11:1
+PASS | Contraste #665d55/#fffdf7 | 6.33:1
+
+98/98 tests réussis.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+<title>Cathédrale Sainte-Croix</title><desc>Façade stylisée avec deux tours et vitrail.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#CBE5F5"/><stop offset="1" stop-color="#FFF2CF"/></linearGradient>
+  <linearGradient id="parch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8E7"/><stop offset="1" stop-color="#EFD9A6"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".18"/></filter>
+</defs>
+<rect width="800" height="420" rx="30" fill="url(#sky)"/>
+
+<rect y="340" width="800" height="80" fill="#C7B38D"/><g filter="url(#shadow)" fill="#D9D0BC" stroke="#6D665A" stroke-width="6"><rect x="210" y="118" width="380" height="225"/><rect x="195" y="45" width="120" height="300"/><rect x="485" y="45" width="120" height="300"/><path d="M195 45 l60 -35 60 35 M485 45 l60 -35 60 35" fill="#B9B09F"/><path d="M350 118 l50 -75 50 75" fill="#B9B09F"/><circle cx="400" cy="180" r="55" fill="#3E6F9E" stroke="#BE963B" stroke-width="10"/><path d="M400 128 V232 M348 180 H452 M365 143 L435 217 M435 143 L365 217" stroke="#F4D46D" stroke-width="7"/><path d="M360 343 v-96 q40 -75 80 0 v96" fill="#44372F"/><g fill="#7EA7C4"><path d="M225 90 h60 v60 h-60z"/><path d="M515 90 h60 v60 h-60z"/></g><path d="M225 180 h60 M515 180 h60 M225 235 h60 M515 235 h60"/></g>
+</svg>
